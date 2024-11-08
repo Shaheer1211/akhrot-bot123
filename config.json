@@ -1,0 +1,32 @@
+{
+    "whitemarket": [
+        {
+            "api_key": "ncigsjg7ornnqqktq9a7vh2z1r67u8riscmumpvc4n3yntcnuqsz2nck8pw6hus3",
+            "profit": 0.07,
+            "min": 15,
+            "max": 100000,
+            "liquidity": 50,
+            "quantity": 30,
+            "interval": 500
+        },
+        {
+            "api_key": "ujsih975sxfezdchcgaivvjvi2xayesvpztru3knnr8av9pew86jfi5jivnhotcf",
+            "profit": 0.07,
+            "min": 15,
+            "max": 100000,
+            "liquidity": 50,
+            "quantity": 30,
+            "interval": 500
+        },
+        {
+            "api_key": "gzhlvb93fnsbyrsgpe3m2dtz1uksqvubpswge1tbaesmqcckuvptuymjjtcvpbik",
+            "profit": 0.07,
+            "min": 15,
+            "max": 100000,
+            "liquidity": 50,
+            "quantity": 30,
+            "interval": 500
+        }
+    ],
+    "TelegramBot": "7736398163:AAFsO0NKRmpI0Tyb_rOUlVJslRrK9d9wNKo"
+}

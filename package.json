@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@types/node-telegram-bot-api": "^0.64.7",
+    "axios": "^1.7.7",
+    "centrifuge": "^5.2.2",
+    "eventsource": "^2.0.2",
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.8.1"
+  }
+}
